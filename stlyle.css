@@ -22,11 +22,11 @@ audio {
   }
   
   #square1 {
-    background: linear-gradient(to right, red, orange);
+    background: linear-gradient(to right, rgb(149, 255, 0), orange);
   }
   
   #square2 {
-    background: linear-gradient(to right, blue, violet);
+    background: linear-gradient(to right, rgb(227, 162, 12), violet);
   }
 
   
